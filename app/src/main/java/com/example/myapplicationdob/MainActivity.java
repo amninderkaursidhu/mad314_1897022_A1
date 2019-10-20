@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
                    MyIntent.putExtra("Name8", strName);
                    MyIntent.putExtra("Day", strday);
+                   MyIntent.putExtra("Day", strday);
                    MyIntent.putExtra("Month", strMonth);
                    MyIntent.putExtra("Year", strYear);
 
